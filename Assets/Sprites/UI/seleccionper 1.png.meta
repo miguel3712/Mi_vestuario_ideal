@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 60d7f5c4c2d85944fb7662519f41ec78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -394858815091871032
+    second: seleccionper 1_0
+  - first:
+      213: -6178166519901317988
+    second: seleccionper 1_1
+  - first:
+      213: 3380627182224299396
+    second: seleccionper 1_2
+  - first:
+      213: 7629536470487963611
+    second: seleccionper 1_3
+  - first:
+      213: -4822480052664733301
+    second: seleccionper 1_4
+  - first:
+      213: 1681724210559042981
+    second: seleccionper 1_5
+  - first:
+      213: 2761841514592339483
+    second: seleccionper 1_6
+  - first:
+      213: -4645298041478299140
+    second: seleccionper 1_7
+  - first:
+      213: -514373527781248896
+    second: seleccionper 1_8
+  - first:
+      213: 2890868276837829416
+    second: seleccionper 1_9
+  - first:
+      213: -8849868604077179683
+    second: seleccionper 1_10
+  - first:
+      213: 2529390970584997671
+    second: seleccionper 1_11
+  - first:
+      213: 6651943613885539216
+    second: seleccionper 1_12
+  - first:
+      213: 3969533075078141528
+    second: seleccionper 1_13
+  - first:
+      213: 2669848957372265690
+    second: seleccionper 1_14
+  - first:
+      213: 7645655653277186460
+    second: seleccionper 1_15
+  - first:
+      213: -1763891300247518746
+    second: seleccionper 1_16
+  - first:
+      213: -1712393190819350183
+    second: seleccionper 1_17
+  - first:
+      213: 4975699304374022810
+    second: seleccionper 1_18
+  - first:
+      213: 5342449513876907948
+    second: seleccionper 1_19
+  - first:
+      213: -7174722378102549295
+    second: seleccionper 1_20
+  - first:
+      213: 7326039257569360033
+    second: seleccionper 1_21
+  - first:
+      213: -8213684713644572000
+    second: seleccionper 1_22
+  - first:
+      213: 8558522837804783366
+    second: seleccionper 1_23
+  - first:
+      213: 1527328989750043902
+    second: seleccionper 1_24
+  - first:
+      213: -1730312320384755598
+    second: seleccionper 1_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seleccionper 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2263
+        height: 1760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2740eeffd258af0800000000000000
+      internalID: -394858815091871032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seleccionper 1_5
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 1891
+        width: 926
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5cb84624fa65710800000000000000
+      internalID: 1681724210559042981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seleccionper 1_24
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 0
+        width: 978
+        height: 1581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef42531cf99223510800000000000000
+      internalID: 1527328989750043902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seleccionper 1_25
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 0
+        width: 977
+        height: 1582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781cf8bc12bcf7e0800000000000000
+      internalID: -1730312320384755598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seleccionper 1_1
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1778
+        width: 1457
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941212984eb24aa0800000000000000
+      internalID: -6178166519901317988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

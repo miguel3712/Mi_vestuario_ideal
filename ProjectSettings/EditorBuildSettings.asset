@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 02660010cb7c8384d8f125b0552f9c14
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Deportivo/Nivel_Se\xF1or.unity"
+    guid: a2b24fe4acf514048ae8bf6e36755124
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Playa/PLA1_Se\xF1or.unity"
+    guid: 95af14131bc28004db5e6b218e11fbfe
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Elegante/Ele1_Se\xF1or.unity"
+    guid: 17b1adfb1a2b7db42a10c1e902aa06ef
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Deportivo/Victoria_Se\xF1or.unity"
+    guid: f0529e89c36bb0e4b9d1b7a0e236ef3c
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Deportivo/Se\xF1ora1.unity"
+    guid: f97c631918f475d498decb999b8a6036
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Elegante/Ele1_Se\xF1ora.unity"
+    guid: 3a5656b777389294ca914373daa61a1b
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Playa/PLA1_Se\xF1ora.unity"
+    guid: ceace417a8892d145872ed991f1cea2b
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Deportivo/Victoria_Se\xF1ora.unity"
+    guid: 4799e17a42026654e8ad854406b05f28
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Deportivo/Perdida_Se\xF1or.unity"
+    guid: 18032c08f12bb5741b62ce762519c830
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Deportivo/NivelSiila_Se\xF1or.unity"
+    guid: 9f5d24d5dfc06c14caa5bcb39af75e98
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Deportivo/Perdida_Se\xF1ora.unity"
+    guid: db2620c8bc9509b43aea413b09721d34
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Deportivo/Se\xF1ora2.unity"
+    guid: fe0bddc37b69a594a99fef9159c9ce09
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Elegante/Ele2_Se\xF1or.unity"
+    guid: fd88290d3d2187247b7aa1207af72429
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Elegante/Vic_Ele_Sr.unity"
+    guid: 885b2debb0cf5cf469f87ec4f1bedcb8
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Elegante/Per_Ele_Sr.unity"
+    guid: 777837106d25d7c48a94637628c4cbb5
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Playa/Per_PL_Sr.unity"
+    guid: 8fcdd46d4a66f204bacb9c07aa480a9d
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Playa/PLA2_Se\xF1or.unity"
+    guid: 48f15894711cb2c4580b49da6df1a2ef
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1or/Playa/Vic_PL_Sr.unity"
+    guid: 63fca6af12bba6746aeb7d4d0ec09ad8
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Elegante/Ele2_Se\xF1ora.unity"
+    guid: 9a6e6196c4b366b4195c59e1cdc89bcf
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Elegante/Per_Ele_Sra.unity"
+    guid: 6fae1ce0a1cff0d4e9b5c33a11f630dc
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Elegante/Vic_Ele_Sra.unity"
+    guid: 57923451e25c51b4d96e75e68ddaf2a8
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Playa/Per_PL_Sra.unity"
+    guid: fa325b68bc255ec4c825b47022e0d2e0
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Playa/PLA2_Se\xF1ora.unity"
+    guid: d07d8a399c534ef48a76c20c091240ec
+  - enabled: 1
+    path: "Assets/Scenes/Se\xF1ora/Playa/Vic_PL_Sra.unity"
+    guid: b871a0d0bdcfdeb4b9dfa85688feafc5
+  m_configObjects: {}

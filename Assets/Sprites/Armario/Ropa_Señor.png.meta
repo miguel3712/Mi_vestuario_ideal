@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: c297984730ab0bc4ca46655c2dcb7558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 352851551461631079
+    second: sudadera_0
+  - first:
+      213: -4312560864673394125
+    second: sudadera_1
+  - first:
+      213: -6637081974173547449
+    second: sudadera_2
+  - first:
+      213: 9054165668761589281
+    second: sudadera_3
+  - first:
+      213: -1662540639989352239
+    second: sudadera_4
+  - first:
+      213: 9018424002263609626
+    second: sudadera_5
+  - first:
+      213: 5758254153032564823
+    second: sudadera_6
+  - first:
+      213: 4032005756682891033
+    second: sudadera_7
+  - first:
+      213: -9115056399814835821
+    second: sudadera_8
+  - first:
+      213: -3531707590089221824
+    second: sudadera_9
+  - first:
+      213: 6587073389745304936
+    second: sudadera_10
+  - first:
+      213: -467620155826058600
+    second: sudadera_11
+  - first:
+      213: -4453342584549301372
+    second: sudadera_12
+  - first:
+      213: -4266891500617325672
+    second: sudadera_13
+  - first:
+      213: -3024197358058177565
+    second: sudadera_14
+  - first:
+      213: -5109234047132245147
+    second: sudadera_15
+  - first:
+      213: -991571748629321356
+    second: sudadera_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sudadera_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1476
+        width: 702
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e057dd9495e400800000000000000
+      internalID: 352851551461631079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1822
+        width: 265
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33214e41eb4b624c0800000000000000
+      internalID: -4312560864673394125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_2
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1439
+        width: 695
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cc38fb1954e3a0800000000000000
+      internalID: -6637081974173547449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_4
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1433
+        width: 730
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b8c0b8187de8e0800000000000000
+      internalID: -1662540639989352239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1015
+        width: 664
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7508ce5c4ad69ef40800000000000000
+      internalID: 5758254153032564823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_7
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 509
+        width: 476
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fe96b8fdf84f730800000000000000
+      internalID: 4032005756682891033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_8
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 676
+        width: 710
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c26d7f70d08180800000000000000
+      internalID: -9115056399814835821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_9
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1045
+        width: 488
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495e2a98aadcfec0800000000000000
+      internalID: -3531707590089221824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 786
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657231295cf96b50800000000000000
+      internalID: 6587073389745304936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_11
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 98
+        width: 755
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acc2222fda289f0800000000000000
+      internalID: -467620155826058600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 690
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a1d0a38c8232c0800000000000000
+      internalID: -4453342584549301372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_14
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 34
+        width: 495
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb74469684e706d0800000000000000
+      internalID: -3024197358058177565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sudadera_16
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 203
+        width: 566
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479e2a98fba3d32f0800000000000000
+      internalID: -991571748629321356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
